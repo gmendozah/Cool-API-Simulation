@@ -2,15 +2,25 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "Corona time!",
+      "author": "Geovani"
+    },
+    {
+      "id": 2,
+      "title": "Are you ready for LWIAY!!!!",
+      "author": "Pewdiepie"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "it's corona time",
       "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "I hate this meme",
+      "postId": 2
     }
   ],
   "profile": {
