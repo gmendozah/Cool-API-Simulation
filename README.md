@@ -33,4 +33,4 @@ json-server --watch db.json
 ```
 
 
-Finally import `orderitv2-2f050-export.json` file into Postman
+Finally import `orderitv2-2f050-export.json` file into [Postman](postman.com/downloads/)
