@@ -11,7 +11,7 @@ Install JSON Server
 npm install -g json-server
 ```
 
-Create or modify `db.json` file with some data
+Modify `db.json` file as needed
 
 ```json
 {
@@ -33,4 +33,5 @@ json-server --watch db.json
 ```
 
 
-Finally import `orderitv2-2f050-export.json` file into [Postman](postman.com/downloads/)
+Finally import `API Simulation.postman_collection.json` file into [Postman](postman.com/downloads/)
+
